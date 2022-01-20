@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors                 = ["Michael Rose"]
 
   spec.summary                 = %q{A simple Jekyll theme for words and pictures.}
-  spec.homepage                = "https://github.com/min1378/min1378.github.io"
+  spec.homepage                = "https://github.com/mmistakes/minimal-mistakes"
   spec.license                 = "MIT"
 
   spec.metadata["plugin_type"] = "theme"
